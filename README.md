@@ -1,0 +1,1 @@
+# verilog-serial-pattern-detector
